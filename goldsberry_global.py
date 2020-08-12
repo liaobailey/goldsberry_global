@@ -4,8 +4,6 @@ import numpy as np
 import simplejson as json
 import seaborn as sns
 import matplotlib.pyplot as plt
-from nba_api.stats.static import players
-from nba_api.stats.endpoints import shotchartdetail
 from matplotlib.patches import Circle, Rectangle, Arc
 
 
