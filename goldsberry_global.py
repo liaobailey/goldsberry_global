@@ -6,9 +6,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from matplotlib.patches import Circle, Rectangle, Arc
 
-
-player_dict = players.get_players()
-
 st.title("Shot Chart Visualization")
 
 st.subheader("Shot charts for all All Stars for the 2019-2020 season plus the top 3 draft picks")
