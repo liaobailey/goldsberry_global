@@ -80,7 +80,7 @@ if viz:
         st.subheader('Percentage Made based on Criteria: ' + str(round(len(df[df['SHOT_MADE_FLAG'] == 1])/len(df)*100, 2)) + '%')
         st.subheader('Percentage of 2 PT shots taken: ' + str(round(len(df[df['SHOT_TYPE'] == '2PT Field Goal'])/len(df)*100, 2)) + '%')
         st.subheader('Percentage of 3 PT shots taken: ' + str(round(len(df[df['SHOT_TYPE'] == '3PT Field Goal'])/len(df)*100, 2)) + '%')
-        joint_shot_chart = sns.jointplot(df.LOC_X, df.LOC_Y, stat_func=None,
+        joint_shot_chart = sns.jointplot(df.LOC_X, df.LOC_Y,
                                      kind='scatter', space=0, alpha=0.5)
         joint_shot_chart.fig.set_size_inches(11,11)
         ax = joint_shot_chart.ax_joint
@@ -139,4 +139,4 @@ if viz:
         ax.set_xlabel('')
         ax.set_ylabel('')
         ax.tick_params(labelbottom=False, labelleft=False)
-        st.pyplot()
+        st.pyplot(joint_shot_chart)
