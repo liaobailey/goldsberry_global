@@ -4,7 +4,7 @@ I created this repository to try to replicate some of the visualizations Kirk Go
 
 In this project, I wanted to implement my data analysis in a webapp and stumbled onto StreamLit. Picking up StreamLit syntax was not too difficult and I was able to deploy a webapp to the ip address below:
 
-http://54.211.196.41:8501
+http://54.197.143.241:8501
 
 # Getting Started
 
