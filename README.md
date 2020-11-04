@@ -26,7 +26,7 @@ Last 5 Minutes Ahead Percentage of 3's taken in Wins: 39.58%
 
 When Lebron is ahead in games, he feels more confident taking 3's. It is possible that intuitively Lebron knows his highest expected value comes from getting a close range shot vs a 3 which is why when his team needs points to come from behind, he'll attack the rim more. 
 
-Some issues here could be his team has a vast lead and scoring is not as critical, but I'm assuming if Lebron is in the game with 5 minutes remaining, it is a faily close game.
+Some issues here could be his team has a vast lead and scoring is not as critical, but I'm assuming if Lebron is in the game with 5 minutes remaining, it is a fairly close game.
 
 James Harden: 
 
