@@ -21,6 +21,7 @@ Filter for Last 5 Minutes when the Lakers won their game.
 We see that in the last 5 minutes of wins, Lebron took 36.79% of his shots from 3 and 63.21% of his shots from 2. But let's break it down by when the Lakers were trailing vs when they were ahead.
 
 Last 5 Minutes Trailing Percentage of 3's taken in Wins: 14.29%
+
 Last 5 Minutes Ahead Percentage of 3's taken in Wins: 39.58%
 
 When Lebron is ahead in games, he feels more confident taking 3's. It is possible that intuitively Lebron knows his highest expected value comes from getting a close range shot vs a 3 which is why when his team needs points to come from behind, he'll attack the rim more. 
